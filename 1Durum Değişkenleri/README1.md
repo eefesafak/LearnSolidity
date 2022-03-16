@@ -1,3 +1,4 @@
+# Durum Değişkenleri
 Tüm değişken tanımlarında değişkenin türünü ve adını belirtmeniz gerekir.
 Durum değişkeninin görünürlük durumları: 
 public: Anlaşma arabiriminin bir bölümüdür ve diğer anlaşmalardan erişim sağlanabilir. 
