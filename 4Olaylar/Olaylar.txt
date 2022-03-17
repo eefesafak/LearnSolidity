@@ -1,0 +1,9 @@
+pragma solidity ^0.4.18;
+contract Marketplace{
+  event PurchasedItem(address buyer, uint price);
+
+  function buy() public{
+    emit PurchasedItem(msg.sender, msg.value);
+  }
+
+}
